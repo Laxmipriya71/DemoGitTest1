@@ -1,15 +1,15 @@
 public class DemoGit {
 
     public static void main(String[] args) {
-        System.out.println("hello !!");
+        System.out.println("hello !! ---");
     }
     public void Do()
     {
-        System.out.println("do not");
+        System.out.println("do not--");
     }
     public void Work()
     {
-        System.out.println("Work");
+        System.out.println("Work--");
     }
     public void Work2()
     {
