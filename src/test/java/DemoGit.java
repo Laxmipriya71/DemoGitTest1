@@ -5,7 +5,7 @@ public class DemoGit {
     }
     public void Do()
     {
-        System.out.println("do not");
+        System.out.println("Welcome not");
     }
     public void Work()
     {
@@ -13,7 +13,7 @@ public class DemoGit {
     }
     public void Work2()
     {
-        System.out.println("Work 22");
+        System.out.println("Welcome Work 22");
     }
 
 }
