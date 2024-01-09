@@ -15,5 +15,10 @@ public class DemoGit {
     {
         System.out.println("Work 22");
     }
+    public void Work4()
+    {
+        System.out.println("Work 22");
+    }
+
 
 }
